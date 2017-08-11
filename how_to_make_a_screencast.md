@@ -52,3 +52,9 @@ Once `Package Control` is installed, install `Plain Tasks` package by
 
 ![](http://i.imgur.com/zs0PIy9.gif)
 
+### Making screencast
+Open `SimpleScreenRecorder` and make screencast.
+
+![](http://i.imgur.com/CCqX1vm.gif)
+
+[Sample screencast made for 365tickets](https://drive.google.com/a/metafour.com/file/d/0Bwos8LoJf-HPQWpIYXZuUm84ZkE/view?usp=sharing)
